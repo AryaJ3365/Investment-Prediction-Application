@@ -23,8 +23,7 @@
     
     ![CitiGroupExampleImg](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/6ec9a2ba-11b6-4a2e-98a4-b7eb302b085f)
 
-    As we can see the output of the Machine Learning model was a grade of F which is the worst grade in the model. Which means our prediction successful as looking at how         
-    CitiGroup regressed in terms of financials it is not a venture that would be safe to invest in.
+    As we can see the output of the Machine Learning model was a grade of F which is the worst grade in the model. Which means our prediction successful as looking at how CitiGroup regressed in terms of financials it is not a venture that would be safe to invest in.
 
 3.
 
