@@ -13,7 +13,7 @@
     1.  In the prediction stage all the user needs to do is enter the KPIs, Venture name, and date of analysis in order to determine by the model the probability of the given venture succeeding.
     2.  Then the output will be your grade and that would wrap up the model.
 
-## **Example Use Cases of the Venture Selection Model in Predicting Future Outcomes:**
+## **Use Cases of the Venture Selection Model in Predicting Future Outcomes:**
 
 1.  Citi Group: Was pretty good in the beginning (I'd give it about a high C or low B grade at the time the KPIs were taken) but is now struggling to maintain the metrics it had ten years ago. So given the metrics from approximately 10 years ago the model should predict that it should not be invested in.
 
@@ -27,7 +27,7 @@ Investment Name: Citi Group, Date: 9/30/2011, ROI: 1.36%, Debt To Equity Ratio: 
 
 3.
 
-## **Explain the KPIs in the app and where all the KPI information came from:**
+## **Explanation of the KPIs in the app and where all the KPI information came from:**
 
 **Venture Information on:** Investment Name, Free Cash Flow, Return on Investment, Debt-to-Equity ratio, and P/E ratio all were collected from macrotrends.net
 
