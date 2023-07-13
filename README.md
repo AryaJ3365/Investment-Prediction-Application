@@ -17,11 +17,11 @@
 
 1.  Citi Group: Was pretty good in the beginning (I'd give it about a high C or low B grade at the time the KPIs were taken) but is now struggling to maintain the metrics it had ten years ago. So given the metrics from approximately 10 years ago the model should predict that it should not be invested in.
 
-<https://www.macrotrends.net/stocks/charts/C/citigroup/profit-margins>
+    <https://www.macrotrends.net/stocks/charts/C/citigroup/profit-margins>
 
-Investment Name: Citi Group, Date: 9/30/2011, ROI: 1.36%, Debt To Equity Ratio: 2.35, Profit Margin: 3.03 , Social Media Engagement: 6 , PE Ratio: 5.6
+    Investment Name: Citi Group, Date: 9/30/2011, ROI: 1.36%, Debt To Equity Ratio: 2.35, Profit Margin: 3.03 , Social Media Engagement: 6 , PE Ratio: 5.6
 
-![A screenshot of a computer program Description automatically generated](media/8fc8da483a5236bfce01a20a938a454b.png)
+    ![A screenshot of a computer program Description automatically generated](media/8fc8da483a5236bfce01a20a938a454b.png)
 
 2.
 
