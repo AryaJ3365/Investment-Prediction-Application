@@ -20,12 +20,12 @@
     <https://www.macrotrends.net/stocks/charts/C/citigroup/profit-margins>
 
     Investment Name: Citi Group, Date: 9/30/2011, ROI: 1.36%, Debt To Equity Ratio: 2.35, Profit Margin: 3.03 , Social Media Engagement: 6 , PE Ratio: 5.6
-
-    ![A screenshot of a computer program Description automatically generated](media/8fc8da483a5236bfce01a20a938a454b.png)
-
-2.
+    
+    ![CitiGroupExampleImg](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/6ec9a2ba-11b6-4a2e-98a4-b7eb302b085f)
 
 3.
+
+4.
 
 ## **Explanation of the KPIs in the app and where all the KPI information came from:**
 
