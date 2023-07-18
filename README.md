@@ -15,17 +15,25 @@
 
 ## **Use Cases of the Venture Selection Model in Predicting Future Outcomes:**
 
-1.  Citi Group: Was pretty good in the beginning (I'd give it about a high C or low B grade at the time the KPIs were taken) but is now struggling to maintain the metrics it had ten years ago. So given the metrics from approximately 10 years ago the model should predict that it should not be invested in.
+1. Sears Holdings: Sears used to be a direct competitor to huge retails stores such as Home Depot, Walmart, and Macy's which are still thriving today. However, unlike the mentioned competitors Sears is now      struggling and the company has plans now to file for bankruptcy unfortunately. I found this interesting since not only was Sears a good rival to these retail stores but were always very smart with their      social media influencing and advertising of the store. Which leads me to ponder the question can my machine learning model determine from the earliest KPIs available in 2009 that Sears in the future would    prove to be a bad investment? Let's find out!
 
-    <https://www.macrotrends.net/stocks/charts/C/citigroup/profit-margins>
+	Downfall of Sears Article: <https://www.investopedia.com/news/downfall-of-sears/>
+	Where KPIs were acquired: <https://www.macrotrends.net/stocks/charts/SHLDQ/sears-holdings/roi>
+	
+	Investment Name: Sears Holdings, Date of KPIs: 10/31/2009, ROI: -.04%, Debt To Equity Ratio: .22, Profit Margin: 27.43%, Social Media Engagement: 7 , PE Ratio: 0
+    ![sears](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/8ae87f7f-c3f2-4c69-9ebe-dbbfc5c67164)
 
-    Investment Name: Citi Group, Date: 9/30/2011, ROI: 1.36%, Debt To Equity Ratio: 2.35, Profit Margin: 3.03 , Social Media Engagement: 6 , PE Ratio: 5.6
-    
-    ![CitiGroupExampleImg](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/6ec9a2ba-11b6-4a2e-98a4-b7eb302b085f)
-    
-3.
+    As we can see from the above screenshot even though at the time these financials were taken no one would even think about not investing in Sears with such a safe debt to equity ratio and high profit          margin it still received a grade of C. Thus, I believe this shows the strength of the machine learning model to have the capability to predict if a venture could potentially fail in the future.
 
-4.
+3. AMD: During the 2010 era AMD was seen as a direct competitor to Intel CPUs, however, most at the time saw Intel as much more valuable and would neglect AMD as even a competitor. Thus, when you look at AMD    financials from 2010 nothing would scream of a company that is worth investing in. However, I decided to see if my ML model given AMD financials from 2010 could potentially predict that AMD may end up        becoming a strong company that would definitely have been worth investing in.
+	
+   Talks about AMD's struggles in 2010: <https://www.latimes.com/business/la-xpm-2011-nov-25-la-fi-amd-20111125-story.html>
+   Where KPIs were acquired: <https://www.macrotrends.net/stocks/charts/AMD/amd/gross-profit>
+	
+   Investment Name: AMD, Date of KPIs: 10/31/2009, ROI: 6.23%, Debt To Equity Ratio:-32.4, Profit Margin: 42.05%, Social Media Engagement: 5 , PE Ratio: 21.5
+   ![AMD](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/05d3d0e9-5b9f-477c-ace5-6bf74422fcb7)
+   
+   As we can see even though at the these financials were taken many would have seen AMD as just a struggling venture, we can see here that our ML model doesn't see it that way and would rather have us          invest in the venture than ignore it. Almost makes me which I had this app earlier as I probably would have never had to work again if I went all in on AMD in 2010.
 
 ## **Explanation of the KPIs in the app and where all the KPI information came from:**
 
