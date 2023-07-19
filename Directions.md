@@ -16,6 +16,6 @@ Directions:
 3.  Finally head to google colab venture model and comment out the original df line with a \# and instead input the link of your new df.
     1.  To get the link to put in from the GitHub repository simply click on your dataset and show the raw code. Then copy the link that shows up when you are viewing the raw code of your dataset.
 
-![Directions](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/66e176e1-d8ad-4bc9-b063-bb6e1c79d8de)
+    ![Directions](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/66e176e1-d8ad-4bc9-b063-bb6e1c79d8de)
 
 1.  Finally go ahead and run the google colab program and if the dataset has no issues you should now be allow to make predictions strictly using only the WiProsper dataset.
