@@ -35,17 +35,26 @@
 
    ![AMD](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/05d3d0e9-5b9f-477c-ace5-6bf74422fcb7)
    
-   As we can see even though at the these financials were taken many would have seen AMD as just a struggling venture, we can see here that our ML model doesn't see it that way and would rather have us          invest in the venture than ignore it. Almost makes me which I had this app earlier as I probably would have never had to work again if I went all in on AMD in 2010.
+   As we can see even though at the these financials were taken many would have seen AMD as just a struggling venture, we can see here that our ML model doesn't see it that way and would rather have us
+   invest in the venture than ignore it. Almost makes me which I had this app earlier as I probably would have never had to work again if I went all in on AMD in 2010.
 
 ## **Explanation of the KPIs in the app and where all the KPI information came from:**
 
 	Venture Information on: Investment Name, Profit Margins, Return on Investment, Debt-to-Equity ratio, and P/E ratio all were collected from macrotrends.net
 	
-	Venture Information on Date column: Comes from the date in the charts where I recorded the KPIs for each venture. Intentionally I tried to get the earliest 	data I could on each venture in order to feed more relevant data when comparing big ventures to startups. The earliest the data goes back for most ventures 	was 12/31/2009 so if that was the earliest option that is what I chose for most of the ventures.
+	Venture Information on Date column: Comes from the date in the charts where I recorded the KPIs for each venture. Intentionally I tried to get the earliest 	
+ 	data I could on each venture in order to feed more relevant data when comparing big ventures to startups. The earliest the data goes back for most ventures 	
+  	was 12/31/2009 so if that was the earliest option that is what I chose for most of the ventures.
 	
 	Venture Information on Successful Column: This column is primarily subjective because this how we train the ML model to understand what we deem are good and 	bad businesses.
 	
-	Reasoning: There's no universal rating based on how good or bad a business is so that's what we have to figure out ourselves. Thus, we create initial 		ratings to showcase what we believe the venture should be at, then the ML model determines based on scores we gave for each row of kpis (venture) what are 	the typical KPIs that align with each score. It should be noted that for determining successful scores that they weren't random numbers but educated 		decisions based off of metrics and articles found from credible sources to make our ML model predictions as accurate as possible.
+	Reasoning: There's no universal rating based on how good or bad a business is so that's what we have to figure out ourselves. Thus, we create initial 		
+ 	ratings to showcase what we believe the venture should be at, then the ML model determines based on scores we gave for each row of kpis (venture) what are 	
+ 	the typical KPIs that align with each score. It should be noted that for determining successful scores that they weren't random numbers but educated 		
+  	decisions based off of metrics and articles found from credible sources to make our ML model predictions as accurate as possible.
 	
-	Venture Information on Social Media Engagement Rate Column: This column is primarily subjective because there is no singular statistic that dictates social 	media engagement, and no database that tracks it for each company. Thus, we came up with the closest and most accurate score we could give the venture based 	on views, bounce rate, pagers per visit, visit duration, and even the number of followers. Most of these statistics were found to allow us to give an 		accurate score using websites like similarweb.com.
+	Venture Information on Social Media Engagement Rate Column: This column is primarily subjective because there is no singular statistic that dictates social 	
+ 	media engagement, and no database that tracks it for each company. Thus, we came up with the closest and most accurate score we could give the venture based 	
+  	on views, bounce rate, pagers per visit, visit duration, and even the number of followers. Most of these statistics were found to allow us to give an accurate 
+   	score using websites like similarweb.com.
 
