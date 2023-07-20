@@ -1,4 +1,4 @@
-How does the process actually work?
+## **How does the process actually work?**
 
 1.  **Take our dataset then transform it to make it readable by our ML model**
     1.  This is done by dropping columns that aren't readable or unnecessary in determining a grade for the venture.
@@ -13,7 +13,7 @@ How does the process actually work?
     1.  In the prediction stage all the user needs to do is enter the KPIs, Venture name, and date of analysis in order to determine by the model the probability of the given venture succeeding.
     2.  Then the output will be your grade and that would wrap up the model.
 
-**Example Use Cases of the Venture Selection Model in Predicting Future Outcomes:**
+## **Example Use Cases of the Venture Selection Model in Predicting Future Outcomes:**
 
 1.  Sears Holdings: Sears used to be a direct competitor to huge retails stores such as Home Depot, Walmart, and Macy's which are still thriving today. However, unlike the mentioned competitors Sears is now struggling and the company has plans now to file for bankruptcy unfortunately. I found this interesting since not only was Sears a good rival to these retail stores but were always very smart with their social media influencing and advertising of the store. Which leads me to ponder the question can my machine learning model determine from the earliest KPIs available in 2009 that Sears in the future would prove to be a bad investment? Let's find out!
 
@@ -23,11 +23,11 @@ Where KPIs were acquired: <https://www.macrotrends.net/stocks/charts/SHLDQ/sears
 
 Investment Name: Sears Holdings, Date of KPIs: 10/31/2009, ROI: -.04%, Debt To Equity Ratio: .22, Profit Margin: 27.43%, Social Media Engagement: 7 , PE Ratio: 0
 
-![A screenshot of a computer program Description automatically generated](media/cf1e16f8b5c5e8700be31d9fb36a6b9a.png)
+![sears](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/a257d01b-bb3a-46f6-bcb6-8e29e260071a)
 
 As we can see from the above screenshot, even though at the time these financials were taken no one would even think about not investing in Sears with such a safe debt to equity ratio and high profit margin it still received a grade of C. Thus, I believe this shows the strength of the machine learning model to have the capability to predict if a venture could potentially fail in the future.
 
-1.  AMD: During the 2010 era AMD was seen as a direct competitor to Intel CPUs, however, most at the time saw Intel as much more valuable and would neglect AMD as even a competitor. Thus, when you look at AMD financials from 2010 nothing would scream of a company that is worth investing in. However, I decided to see if my ML model given AMD financials from 2010 could potentially predict that AMD may end up becoming a strong company that would definitely have been worth investing in.
+2.  AMD: During the 2010 era AMD was seen as a direct competitor to Intel CPUs, however, most at the time saw Intel as much more valuable and would neglect AMD as even a competitor. Thus, when you look at AMD financials from 2010 nothing would scream of a company that is worth investing in. However, I decided to see if my ML model given AMD financials from 2010 could potentially predict that AMD may end up becoming a strong company that would definitely have been worth investing in.
 
     Talks about AMD's struggles in 2010: <https://www.latimes.com/business/la-xpm-2011-nov-25-la-fi-amd-20111125-story.html>
 
@@ -35,11 +35,11 @@ As we can see from the above screenshot, even though at the time these financial
 
     Investment Name: AMD, Date of KPIs: 10/31/2009, ROI: 6.23%, Debt To Equity Ratio:-32.4, Profit Margin: 42.05%, Social Media Engagement: 5 , PE Ratio: 21.51
 
-![A screenshot of a computer program Description automatically generated](media/2fcecdb02c792f2baef37dfc0c9fcfc0.png)
+![AMD](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/a3eb1656-ca9b-4869-a220-0627ef87a525)
 
 As we can see, even though at these financials were taken many would have seen AMD as just a struggling venture, we can see here that our ML model doesn't see it that way and would rather have us invest in the venture than ignore it. Almost makes me which I had this app earlier as I probably would have never had to work again if I went all in on AMD in 2010.
 
-Explain the KPIs in the app and where all the KPI information came from:
+## **Explain the KPIs in the app and where all the KPI information came from:**
 
 **Venture Information on:** Investment Name, Profit Margins, Return on Investment, Debt-to-Equity ratio, and P/E ratio all were collected from macrotrends.net
 
