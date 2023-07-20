@@ -15,7 +15,7 @@
 
 ## **Example Use Cases of the Venture Selection Model in Predicting Future Outcomes:**
 
-1.  Sears Holdings: Sears used to be a direct competitor to huge retails stores such as Home Depot, Walmart, and Macy's which are still thriving today. However, unlike the mentioned competitors Sears is now struggling and the company has plans now to file for bankruptcy unfortunately. I found this interesting since not only was Sears a good rival to these retail stores but were always very smart with their social media influencing and advertising of the store. Which leads me to ponder the question can my machine learning model determine from the earliest KPIs available in 2009 that Sears in the future would prove to be a bad investment? Let's find out!
+1.  **Sears Holdings:** Sears used to be a direct competitor to huge retails stores such as Home Depot, Walmart, and Macy's which are still thriving today. However, unlike the mentioned competitors Sears is now struggling and the company has plans now to file for bankruptcy unfortunately. I found this interesting since not only was Sears a good rival to these retail stores but were always very smart with their social media influencing and advertising of the store. Which leads me to ponder the question can my machine learning model determine from the earliest KPIs available in 2009 that Sears in the future would prove to be a bad investment? Let's find out!
 
     Downfall of Sears Article: <https://www.investopedia.com/news/downfall-of-sears/>
 
@@ -29,7 +29,7 @@
 
     As we can see from the above screenshot, even though at the time these financials were taken no one would even think about not investing in Sears with such a safe debt to equity ratio and high profit margin it still received a grade of C. Thus, I believe this shows the strength of the machine learning model to have the capability to predict if a venture could potentially fail in the future.
 
-2.  AMD: During the 2010 era AMD was seen as a direct competitor to Intel CPUs, however, most at the time saw Intel as much more valuable and would neglect AMD as even a competitor. Thus, when you look at AMD financials from 2010 nothing would scream of a company that is worth investing in. However, I decided to see if my ML model given AMD financials from 2010 could potentially predict that AMD may end up becoming a strong company that would definitely have been worth investing in.
+2.  **AMD:** During the 2010 era AMD was seen as a direct competitor to Intel CPUs, however, most at the time saw Intel as much more valuable and would neglect AMD as even a competitor. Thus, when you look at AMD financials from 2010 nothing would scream of a company that is worth investing in. However, I decided to see if my ML model given AMD financials from 2010 could potentially predict that AMD may end up becoming a strong company that would definitely have been worth investing in.
 
     Talks about AMD's struggles in 2010: <https://www.latimes.com/business/la-xpm-2011-nov-25-la-fi-amd-20111125-story.html>
 
@@ -41,7 +41,7 @@
 
     ![AMD](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/ab5152e9-31b6-4d4b-8cf6-f80b526a6242)
 
-As we can see, even though at these financials were taken many would have seen AMD as just a struggling venture, we can see here that our ML model doesn't see it that way and would rather have us invest in the venture than ignore it. Almost makes me which I had this app earlier as I probably would have never had to work again if I went all in on AMD in 2010.
+    As we can see, even though at these financials were taken many would have seen AMD as just a struggling venture, we can see here that our ML model doesn't see it that way and would rather have us invest in the venture than ignore it. Almost makes me which I had this app earlier as I probably would have never had to work again if I went all in on AMD in 2010.
 
 ## **Explain the KPIs in the app and where all the KPI information came from:**
 
