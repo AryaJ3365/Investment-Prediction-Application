@@ -1,4 +1,4 @@
-How does the process actually work?
+## **How does the process actually work?**
 
 1.  **Take our dataset then transform it to make it readable by our ML model**
     1.  This is done by dropping columns that aren't readable or unnecessary in determining a grade for the venture.
@@ -13,9 +13,9 @@ How does the process actually work?
     1.  In the prediction stage all the user needs to do is enter the KPIs, Venture name, and date of analysis in order to determine by the model the probability of the given venture succeeding.
     2.  Then the output will be your grade and that would wrap up the model.
 
-**Example Use Cases of the Venture Selection Model in Predicting Future Outcomes:**
+## **Example Use Cases of the Venture Selection Model in Predicting Future Outcomes:**
 
-1\. Sears Holdings: Sears used to be a direct competitor to huge retails stores such as Home Depot, Walmart, and Macy's which are still thriving today. However, unlike the mentioned competitors Sears is now struggling and the company has plans now to file for bankruptcy unfortunately. I found this interesting since not only was Sears a good rival to these retail stores but were always very smart with their social media influencing and advertising of the store. Which leads me to ponder the question can my machine learning model determine from the earliest KPIs available in 2009 that Sears in the future would prove to be a bad investment? Let's find out!
+1. Sears Holdings: Sears used to be a direct competitor to huge retails stores such as Home Depot, Walmart, and Macy's which are still thriving today. However, unlike the mentioned competitors Sears is now struggling and the company has plans now to file for bankruptcy unfortunately. I found this interesting since not only was Sears a good rival to these retail stores but were always very smart with their social media influencing and advertising of the store. Which leads me to ponder the question can my machine learning model determine from the earliest KPIs available in 2009 that Sears in the future would prove to be a bad investment? Let's find out!
 
 Downfall of Sears Article: <https://www.investopedia.com/news/downfall-of-sears/>
 
@@ -39,7 +39,7 @@ Investment Name: AMD, Date of KPIs: 10/31/2009, ROI: 6.23%, Debt To Equity Ratio
     
 As we can see, even though at these financials were taken many would have seen AMD as just a struggling venture, we can see here that our ML model doesn't see it that way and would rather have us invest in the venture than ignore it. Almost makes me which I had this app earlier as I probably would have never had to work again if I went all in on AMD in 2010.
 
-**Explain the KPIs in the app and where all the KPI information came from:**
+## **Explain the KPIs in the app and where all the KPI information came from:**
 
 **Venture Information on:** Investment Name, Profit Margins, Return on Investment, Debt-to-Equity ratio, and P/E ratio all were collected from macrotrends.net
 
