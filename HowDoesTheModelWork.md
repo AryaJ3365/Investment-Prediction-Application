@@ -23,15 +23,19 @@ Where KPIs were acquired: <https://www.macrotrends.net/stocks/charts/SHLDQ/sears
 
 Investment Name: Sears Holdings, Date of KPIs: 10/31/2009, ROI: -.04%, Debt To Equity Ratio: .22, Profit Margin: 27.43%, Social Media Engagement: 7 , PE Ratio: 0
 
+![sears](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/a20cc367-baad-48d1-8f2e-1aa1f47e59bf)
+
 As we can see from the above screenshot, even though at the time these financials were taken no one would even think about not investing in Sears with such a safe debt to equity ratio and high profit margin it still received a grade of C. Thus, I believe this shows the strength of the machine learning model to have the capability to predict if a venture could potentially fail in the future.
 
-2\. AMD: During the 2010 era AMD was seen as a direct competitor to Intel CPUs, however, most at the time saw Intel as much more valuable and would neglect AMD as even a competitor. Thus, when you look at AMD financials from 2010 nothing would scream of a company that is worth investing in. However, I decided to see if my ML model given AMD financials from 2010 could potentially predict that AMD may end up becoming a strong company that would definitely have been worth investing in.
+2. AMD: During the 2010 era AMD was seen as a direct competitor to Intel CPUs, however, most at the time saw Intel as much more valuable and would neglect AMD as even a competitor. Thus, when you look at AMD financials from 2010 nothing would scream of a company that is worth investing in. However, I decided to see if my ML model given AMD financials from 2010 could potentially predict that AMD may end up becoming a strong company that would definitely have been worth investing in.
 
 Talks about AMD's struggles in 2010: <https://www.latimes.com/business/la-xpm-2011-nov-25-la-fi-amd-20111125-story.html>
 
 Where KPIs were acquired: <https://www.macrotrends.net/stocks/charts/AMD/amd/gross-profit>
 
 Investment Name: AMD, Date of KPIs: 10/31/2009, ROI: 6.23%, Debt To Equity Ratio:-32.4, Profit Margin: 42.05%, Social Media Engagement: 5 , PE Ratio: 21.51
+
+![AMD](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/f08dfea5-302d-4f7f-8e2a-d59446d0e1d8)
 
 As we can see, even though at these financials were taken many would have seen AMD as just a struggling venture, we can see here that our ML model doesn't see it that way and would rather have us invest in the venture than ignore it. Almost makes me which I had this app earlier as I probably would have never had to work again if I went all in on AMD in 2010.
 
