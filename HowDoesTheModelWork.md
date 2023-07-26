@@ -36,7 +36,7 @@ As we can see from the above screenshot, even though at the time these financial
 
     Investment Name: AMD, Date of KPIs: 10/31/2009, ROI: 6.23%, Debt To Equity Ratio:-32.4, Profit Margin: 42.05%, Social Media Engagement: 5 , PE Ratio: 21.51
 
-    ![AMD](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/1fb2d7ec-f6d4-46ab-a36e-075dbd737d4c)
+![AMD](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/1fb2d7ec-f6d4-46ab-a36e-075dbd737d4c)
 
 
 As we can see, even though at these financials were taken many would have seen AMD as just a struggling venture, we can see here that our ML model doesn't see it that way and would rather have us invest in the venture than ignore it. Almost makes me which I had this app earlier as I probably would have never had to work again if I went all in on AMD in 2010.
