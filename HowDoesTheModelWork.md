@@ -23,7 +23,7 @@ Where KPIs were acquired: <https://www.macrotrends.net/stocks/charts/SHLDQ/sears
 
 Investment Name: Sears Holdings, Date of KPIs: 10/31/2009, ROI: -.04%, Debt To Equity Ratio: .22, Profit Margin: 27.43%, Social Media Engagement: 7 , PE Ratio: 0
 
-    ![sears](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/c66e9044-aef5-426c-a330-b16e2161cab3)
+   ![sears](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/c66e9044-aef5-426c-a330-b16e2161cab3)
 
 As we can see from the above screenshot, even though at the time these financials were taken no one would even think about not investing in Sears with such a safe debt to equity ratio and high profit margin it still received a grade of C. Thus, I believe this shows the strength of the machine learning model to have the capability to predict if a venture could potentially fail in the future.
 
@@ -35,8 +35,8 @@ Where KPIs were acquired: <https://www.macrotrends.net/stocks/charts/AMD/amd/gro
 
 Investment Name: AMD, Date of KPIs: 10/31/2009, ROI: 6.23%, Debt To Equity Ratio:-32.4, Profit Margin: 42.05%, Social Media Engagement: 5 , PE Ratio: 21.51
 
-    ![AMD](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/f08dfea5-302d-4f7f-8e2a-d59446d0e1d8)
-
+   ![AMD](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/b2d8a1e3-6b71-4876-87b3-e86a51f69a28)
+    
 As we can see, even though at these financials were taken many would have seen AMD as just a struggling venture, we can see here that our ML model doesn't see it that way and would rather have us invest in the venture than ignore it. Almost makes me which I had this app earlier as I probably would have never had to work again if I went all in on AMD in 2010.
 
 **Explain the KPIs in the app and where all the KPI information came from:**
