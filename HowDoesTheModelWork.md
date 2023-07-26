@@ -23,7 +23,7 @@ Where KPIs were acquired: <https://www.macrotrends.net/stocks/charts/SHLDQ/sears
 
 Investment Name: Sears Holdings, Date of KPIs: 10/31/2009, ROI: -.04%, Debt To Equity Ratio: .22, Profit Margin: 27.43%, Social Media Engagement: 7 , PE Ratio: 0
 
-    ![sears](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/9545ce74-5d9c-4241-8026-34b0b963965d)
+![sears](https://github.com/AryaJ3365/Investment-Prediction-Application/assets/91634509/9545ce74-5d9c-4241-8026-34b0b963965d)
 
 
 As we can see from the above screenshot, even though at the time these financials were taken no one would even think about not investing in Sears with such a safe debt to equity ratio and high profit margin it still received a grade of C. Thus, I believe this shows the strength of the machine learning model to have the capability to predict if a venture could potentially fail in the future.
