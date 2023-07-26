@@ -1,4 +1,4 @@
-## ***How does the process actually work?***
+## **How does the process actually work?**
 
 1.  **Take our dataset then transform it to make it readable by our ML model**
     1.  This is done by dropping columns that aren't readable or unnecessary in determining a grade for the venture.
